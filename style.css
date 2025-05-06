@@ -296,3 +296,15 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+
+.disclaimer {
+    background-color: #e50914;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}

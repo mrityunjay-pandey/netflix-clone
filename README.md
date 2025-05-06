@@ -1,17 +1,17 @@
-# Netflix Clone
+# StreamFlix - A Video Streaming Platform Clone
 
-A beautiful frontend clone of Netflix's landing page built with HTML and CSS. This project replicates the modern and sleek design of Netflix's homepage, featuring responsive design and interactive elements.
+A frontend clone of a popular video streaming platform's landing page built with HTML and CSS. This project is a learning exercise that replicates the modern and sleek design of streaming platforms, featuring responsive design and interactive elements.
 
-> **Disclaimer:** This is a clone project created for educational purposes only. This is not the official Netflix website. All rights belong to Netflix.
+> **Disclaimer**: This project is created for educational purposes only. It is not affiliated with, endorsed by, or connected to any streaming service. The design and UI elements are inspired by popular streaming platforms for learning purposes.
 
-![Netflix Clone Preview](assets/images/logo.svg)
+![StreamFlix Clone Preview](assets/images/logo.svg)
 
 ## Features
 
 - Responsive design that works on all devices
-- Netflix-like hero section with email signup
+- Hero section with email signup
 - Interactive FAQ section
-- Beautiful sections showcasing Netflix features
+- Beautiful sections showcasing platform features
 - Modern footer with navigation links
 - Smooth animations and transitions
 - Language selection and sign-in functionality
@@ -26,7 +26,7 @@ A beautiful frontend clone of Netflix's landing page built with HTML and CSS. Th
 ## Project Structure
 
 ```
-netflix-clone/
+streamflix-clone/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
 └── assets/             # Assets directory
@@ -48,8 +48,8 @@ cd netflix-clone
 3. Open `index.html` in your web browser to view the project.
 
 ## Features Implemented
-free to submit a Pull Request.
-- Netflix-like hero section with background
+
+- Hero section with background
 - Responsive navigation bar
 - Feature sections with images and videos
 - FAQ section with interactive elements
@@ -59,7 +59,7 @@ free to submit a Pull Request.
 
 ## Contributing
 
-Contributions are welcome! Please feel 
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Netflix for the design inspiration
+- Inspired by popular streaming platforms
 - All the amazing open-source tools and resources used in this project
 
 ## Contact
