@@ -1,10 +1,10 @@
-# StreamFlix - A Video Streaming Platform Clone
+# netflix - A Video Streaming Platform Clone
 
 A frontend clone of a popular video streaming platform's landing page built with HTML and CSS. This project is a learning exercise that replicates the modern and sleek design of streaming platforms, featuring responsive design and interactive elements.
 
 > **Disclaimer**: This project is created for educational purposes only. It is not affiliated with, endorsed by, or connected to any streaming service. The design and UI elements are inspired by popular streaming platforms for learning purposes.
 
-![StreamFlix Clone Preview](assets/images/logo.svg)
+![netflix Clone Preview](assets/images/logo.svg)
 
 ## Features
 
@@ -26,7 +26,7 @@ A frontend clone of a popular video streaming platform's landing page built with
 ## Project Structure
 
 ```
-streamflix-clone/
+netflix-clone/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
 └── assets/             # Assets directory
