@@ -2,6 +2,8 @@
 
 A beautiful frontend clone of Netflix's landing page built with HTML and CSS. This project replicates the modern and sleek design of Netflix's homepage, featuring responsive design and interactive elements.
 
+> **Disclaimer:** This is a clone project created for educational purposes only. This is not the official Netflix website. All rights belong to Netflix.
+
 ![Netflix Clone Preview](assets/images/logo.svg)
 
 ## Features

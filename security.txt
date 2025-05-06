@@ -1,5 +1,0 @@
-Contact: https://github.com/mrityunjay-pandey
-Expires: 2025-12-31T00:00:00.000Z
-Preferred-Languages: en
-Canonical: https://mrityunjay-pandey.github.io/netflix-clone/security.txt
-Policy: https://github.com/mrityunjay-pandey/netflix-clone/security/policy 
