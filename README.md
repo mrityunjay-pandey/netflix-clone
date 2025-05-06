@@ -35,7 +35,7 @@ netflix-clone/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/mrityunjay-pandey/netflix-clone.git
 ```
 
 2. Open the project:
@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Mrityunjay Pandey - [@mrityunjay-pandey](https://github.com/mrityunjay-pandey)
 
-Project Link: [https://github.com/yourusername/netflix-clone](https://github.com/yourusername/netflix-clone) 
+Project Link: [https://github.com/mrityunjay-pandey/netflix-clone](https://github.com/mrityunjay-pandey/netflix-clone) 
