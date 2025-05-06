@@ -46,7 +46,7 @@ cd netflix-clone
 3. Open `index.html` in your web browser to view the project.
 
 ## Features Implemented
-
+free to submit a Pull Request.
 - Netflix-like hero section with background
 - Responsive navigation bar
 - Feature sections with images and videos
@@ -57,7 +57,7 @@ cd netflix-clone
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel 
 
 ## License
 
